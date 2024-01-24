@@ -24,5 +24,6 @@
 
 </span>
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=example)](https://solved.ac/example)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
+
 
