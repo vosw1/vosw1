@@ -15,8 +15,8 @@
 <br>
 
 <img src="https://img.shields.io/badge/intellijidea-hexcode#000000?style=plastic&logo=intellijidea&logoColor=white" style="background-color: #F6E199"/>
-<img src="https://img.shields.io/badge/eclipseide-hexcode#2C2255?style=plastic&logo=eclipseide&logoColor=white" style="background-color: #F6E199"//>
-<img src="https://img.shields.io/badge/visualstudiocode-hexcode##007ACC?style=plastic&logo=visualstudiocode&logoColor=white" style="background-color: #F6E199"//>
+<img src="https://img.shields.io/badge/eclipseide-hexcode#2C2255?style=plastic&logo=eclipseide&logoColor=white" style="background-color: #F6E199"/>
+<img src="https://img.shields.io/badge/visualstudiocode-hexcode##007ACC?style=plastic&logo=visualstudiocode&logoColor=white" style="background-color: #F6E199"/>
 
 <br>
 
