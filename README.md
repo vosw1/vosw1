@@ -13,6 +13,9 @@
 <img src="https://img.shields.io/badge/github-hexcode#181717?style=plastic&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/css3-hexcode#1572B6?style=plastic&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/html5-hexcode#E34F26?style=plastic&logo=html5&logoColor=white"/>
+<br>
 
-
+<img src="https://img.shields.io/badge/intellijidea-hexcode#000000?style=plastic&logo=intellijidea&logoColor=white"/>
+<img src="https://img.shields.io/badge/eclipseide-hexcode#2C2255?style=plastic&logo=eclipseide&logoColor=white"/>
+<img src="https://img.shields.io/badge/visualstudiocode-hexcode##007ACC?style=plastic&logo=visualstudiocode&logoColor=white"/>
 </span>
