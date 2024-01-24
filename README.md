@@ -5,6 +5,8 @@
 
 ![vosw1's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=flag-india)
 
+<br>
+
 <span>
 <img src="https://img.shields.io/badge/springboot-hexcode#6DB33F?style=plastic&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/git-hexcode#F05032?style=plastic&logo=git&logoColor=white"/>
