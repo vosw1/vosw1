@@ -23,3 +23,6 @@
 <img src="https://img.shields.io/badge/notion-hexcode#000000?style=plastic&logo=**visualstudiocode**&logoColor=white"/>
 
 </span>
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
