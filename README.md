@@ -25,6 +25,6 @@
 </span>
 
 
-![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=Diamond)
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=vosw1)
 
 
