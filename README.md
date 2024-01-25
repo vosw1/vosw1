@@ -1,30 +1,38 @@
 ### Hi there 👋
+
 <div>
  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </div><br>
 
 ![vosw1's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=flag-india)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vosw1)](https://github.com/anuraghazra/github-readme-stats)
+
 <span>
-<img src="https://img.shields.io/badge/springboot-hexcode#6DB33F?style=plastic&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/git-hexcode#F05032?style=plastic&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/github-hexcode#181717?style=plastic&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/css3-hexcode#1572B6?style=plastic&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/html5-hexcode#E34F26?style=plastic&logo=html5&logoColor=white"/>
- 
-<br>
-
-<img src="https://img.shields.io/badge/intellijidea-hexcode#000000?style=plastic&logo=intellijidea&logoColor=white" >
-<img src="https://img.shields.io/badge/eclipseide-hexcode#2C2255?style=plastic&logo=eclipseide&logoColor=white">
-<img src="https://img.shields.io/badge/visualstudiocode-hexcode##007ACC?style=plastic&logo=visualstudiocode&logoColor=white">
-
-<br>
-
-<img src="https://img.shields.io/badge/notion-hexcode#000000?style=plastic&logo=**visualstudiocode**&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white"/>
+   <br>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  <br>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+ <br>
+  <br>
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
+<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 </span>
+<br>
+<br>
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
 
-
-![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=vosw1)
 
 
