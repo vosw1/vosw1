@@ -27,7 +27,7 @@
  <br>
   <br>
   <span>
- <h3>💻 내가 지금까지 사용해본 툴</h3>
+ <h3>💻 내가 지금까지 사용해본 ...</h3>
 <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
