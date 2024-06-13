@@ -1,7 +1,7 @@
 # I am
 | 이름 | 사진 | 소개 | 
 |:--:|:--:|:---------------:|
-| 송민경 | <img src="https://avatars.githubusercontent.com/u/153582401?v=4" width="150px"/> | 테이블 설계<br/>화면 디자인<br/>UI 구현<br/>단위 테스트<br/>통신(회원가입, 로그인, 예약, 결제)<br/>상태관리<br/>유효성 검사<br/>코드 리팩토링| 
+| 송민경 | <img src="https://avatars.githubusercontent.com/u/153582401?v=4" width="150px"/> | 꾸준히 노력하는 개발자<br>완벽을 추구하여 시간관리를 잘함<br>영어영문학 전공으로 원서를 읽거나 디버깅하는데 유리함| 
 
 ---
 
