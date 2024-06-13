@@ -1,7 +1,7 @@
 # I am
 | 이름 | 사진 | 소개 | 
 |:--:|:--:|:---------------:|
-| 송민경 | <img src="https://avatars.githubusercontent.com/u/153582401?v=4" width="150px"/> | 꾸준히 노력하는 개발자<br>완벽을 추구하여 시간관리를 잘함<br>영어영문학 전공으로 원서를 읽거나 디버깅하는데 유리함| 
+| 송민경 | <img src="https://avatars.githubusercontent.com/u/153582401?v=4" width="150px"/> | 꾸준히 노력하는 개발자<br>완벽을 추구하여 시간관리를 잘하고 정리를 잘함<br>영어영문학 전공으로 원서를 읽거나 디버깅하는데 유리함| 
 
 ---
 
