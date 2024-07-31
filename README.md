@@ -12,7 +12,7 @@
 | Framework | ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-brightgreen?logo=spring&logoColor=white) ![Flutter](https://img.shields.io/badge/-Flutter-blue?logo=flutter&logoColor=white) |
 | :-------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |    DB     | ![MySQL](https://img.shields.io/badge/MySQL-black?&logo=mysql&logoColor=white)                                                                                                                              |
-|   Tools   | ![Notion](https://img.shields.io/badge/-Notion-black?logo=notion&logoColor=white) ![Slack](https://img.shields.io/badge/-Slack-purple?logo=slack&logoColor=white) ![Git](https://img.shields.io/badge/-Git-red?logo=git&logoColor=white) (협업 가능) |
+|   Tools   | ![Notion](https://img.shields.io/badge/-Notion-black?logo=notion&logoColor=white)  ![Figma](https://img.shields.io/badge/-Figma-yellow?logo=figma&logoColor=white) ![Slack](https://img.shields.io/badge/-Slack-purple?logo=slack&logoColor=white) ![Git](https://img.shields.io/badge/-Git-red?logo=git&logoColor=white) (협업 가능)|
 
 
 ---
