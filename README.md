@@ -31,7 +31,7 @@
 
 ---
 # Summary
-| 자료 | 링크 | 미리보기|
-|:----------:|:-----------------------:|:---------------:|
-**블로그**|[블로그 자세히 보기](https://inblog.ai/vosw1?traffic_type=internal)|<img src="https://github.com/user-attachments/assets/6f5ce185-ed3e-415c-bbe8-9a0667ad976a" width="700px"  hight="500" alt="image">|
-**노션**|[ 노션 자세히 보기 ](https://sunset-knuckle-4bc.notion.site/8de388ac5e60469c92e62dff54b19e04?pvs=4)|<img src="https://github.com/user-attachments/assets/052f7a4c-c738-4fae-b97a-08d086bd1bee" width="400px" hight="600" alt="image">|
+| 자료 | 미리보기|
+|:-----------------------:|:---------------:|
+[**블로그**](https://inblog.ai/vosw1?traffic_type=internal)|<img src="https://github.com/user-attachments/assets/6f5ce185-ed3e-415c-bbe8-9a0667ad976a" width="700px"  hight="500" alt="image">|
+[**노션**](https://sunset-knuckle-4bc.notion.site/8de388ac5e60469c92e62dff54b19e04?pvs=4)|<img src="https://github.com/user-attachments/assets/052f7a4c-c738-4fae-b97a-08d086bd1bee" width="400px" hight="600" alt="image">|
