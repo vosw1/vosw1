@@ -32,7 +32,6 @@
 ---
 # Summary
 | 자료 | 링크 | 미리보기|
-|:--:|:---------------:|:---------------:|
-**노션**|[ 노션 ](https://sunset-knuckle-4bc.notion.site/8de388ac5e60469c92e62dff54b19e04?pvs=4)|<img src="https://github.com/user-attachments/assets/1a5fdeb3-6dd2-4e21-8139-b89832cac843" width="100px" hight="200" alt="image">|
-**블로그**|[블로그](https://inblog.ai/vosw1?traffic_type=internal)|<img src="https://github.com/user-attachments/assets/ac2996be-051b-4acb-bad8-8afdf215b58e" width="500px" alt="image">|
-**프로젝트 정리**|[프로젝트](https://sunset-knuckle-4bc.notion.site/Project-89f07efbf1874e8a96088d053b304e7a?pvs=4)|<img src="https://github.com/user-attachments/assets/bfbba0d0-80eb-4820-a0b2-7ca3f8378f66" width="500px" alt="image">|
+|:----------:|:-----------------------:|:---------------:|
+**블로그**|[블로그 자세히 보기](https://inblog.ai/vosw1?traffic_type=internal)|<img src="https://github.com/user-attachments/assets/6f5ce185-ed3e-415c-bbe8-9a0667ad976a" width="700px"  hight="500" alt="image">|
+**노션**|[ 노션 자세히 보기 ](https://sunset-knuckle-4bc.notion.site/8de388ac5e60469c92e62dff54b19e04?pvs=4)|<img src="https://github.com/user-attachments/assets/052f7a4c-c738-4fae-b97a-08d086bd1bee" width="400px" hight="600" alt="image">|
